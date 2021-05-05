@@ -1,4 +1,4 @@
-# Security-Analyst-Projects-Udacity
+# Security Analyst - Projects - Udacity Nanodegree
 
 The projects listed were part of the Udacity Security Analyst Nanodegree. The listed projects are displayed in derivated form. The 
 
