@@ -18,4 +18,4 @@ Requirements for this project include:
 * Deployment Plan
 * Network Diagram
 
-Link Planning for Security Controls(https://github.com/MichaelThomasWolff/Security-Analyst-Projects-Udacity/tree/main/Planning%20for%20Security%20Controls)
+Link Planning for {Security Controls](https://github.com/MichaelThomasWolff/Security-Analyst-Projects-Udacity/tree/main/Planning%20for%20Security%20Controls)
