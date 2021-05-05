@@ -2,7 +2,7 @@
 
 The projects listed were part of the Udacity Security Analyst Nanodegree. The listed projects are displayed in derivated form due to copyright restrictions.
 
-Udacity may vary projects. This repo is representing my findings at this point in time and may not representative for future Udacity Security Analyst projects.
+Udacity may vary projects. This repo is representing my findings at this point in time and may not be representative for future Udacity Security Analyst projects.
 Please keep in mind that form and requirements of my projects may differ from present projects. 
 
 **Project 1: Planning for Security Controls**
