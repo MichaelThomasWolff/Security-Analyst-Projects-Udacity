@@ -46,6 +46,6 @@ The first vulnerability we want to exploit is on the login page of the website. 
 
 The second vulnerability we want to exploit is after we’ve logged into the site. We want to exploit an XSS vulnerability in the search bar. Attempt an arbitrary command that will render an alert with the value “Hacked”.
 
-
+Go to: [Findings](https://github.com/MichaelThomasWolff/Security-Analyst-Projects-Udacity/tree/main/Insecure%20Juice%20Shop/Findings)
 
 
