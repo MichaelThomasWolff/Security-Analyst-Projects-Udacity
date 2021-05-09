@@ -1,4 +1,4 @@
-Insecure Juice Shop
+#Project 2: Insecure Juice Shop
 
 **Section 1: Threat Assessment**
 It’s time to get to work! You’ve arrived at one Udajuicer’s headquarters located in Miami and are shocked at the lack of technology. You ponder how in the world is this the largest juice shop without ever using computers or relying on technology. After the initial shock, you’re ready to get back on track and get to work. Manu, the eccentric owner, takes it upon himself to work with you directly to make sure you have everything you need. You first request an architecture diagram of the application and logs from right before the application went down. At a quick glance you notice the woefully designed architecture and buckle up for a long day, all the whilst Manu is in your ear talking about Super Smoothies evil plot to take down his franchise.
