@@ -6,14 +6,17 @@
 **Task 2: Based on your analysis provide physical and logical controls that can be implemented to enhance the security posture of the company.**
 
 
-Physical Control Recommendations
+Physical Control Recommendations:
+
 We don’t have much information about the physical environment of “Company A”. While the company operates from an office park, sharing premises with several other companies, I believe it is good practice to install the following (in addition to key-card access system and electronic locks as a replacement for mechanical locks):
 
 •	Workstation locks 
 •	Security cameras
 •	A lockable cabinet for the network components to prevent tampering
 •	Receptionist who escorts visitors
-Logical Control Recommendations
+
+Logical Control Recommendations:
+
 Logical controls are mechanisms that protect information assets with rules about how data is accessed, transmitted, processed, and stored within the context of a system or application. 
 The following would be recommended:
 
@@ -29,7 +32,8 @@ The following would be recommended:
 Another solution would be the use of a firewall to allow traffic only from specific hosts to the MySQL server. This will limit possibilities of attack on the database.
 
 
-Administrative Control Recommendations
+Administrative Control Recommendations:
+
 (include the names of the attached policy documents)
 
 Company A - Password-Protection-Policy.docx
