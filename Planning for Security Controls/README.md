@@ -2,7 +2,7 @@
 
 For this project we will be assuming the role of an Information Security Analyst for an industrial manufacturing company in the Midwest-US. 
 
-Requirements for this project include:
+**Requirements for this project include:**
 
 * NIST Work Book
 * Security Plan
@@ -10,6 +10,7 @@ Requirements for this project include:
 * Policy document #2
 * Deployment Plan
 * Network Diagram
+
 
 **Technology Overview**
 
@@ -33,6 +34,7 @@ In addition to these primary responsibilities, you are also responsible for prov
 * Develop company-wide security best practices
 
 Securing personnel (the human asset) is your highest priority.
+
 
 **Project instructions:**
 
