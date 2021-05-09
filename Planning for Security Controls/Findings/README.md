@@ -29,6 +29,10 @@ Another solution would be the use of a firewall to allow traffic only from speci
 
 **Administrative Control Recommendations:**
 
+![alt text]
+![alt text]
+
+
 (see Task 3)
 
 
