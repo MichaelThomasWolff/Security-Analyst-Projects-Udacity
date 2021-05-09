@@ -1,7 +1,7 @@
 # Project 1: Planning for Security Controls - Findings
 **Task 1: Use the NIST work book and assign a score to each of the controls and inform your decisions.**
 
-Scores assigned to: [NIST Work Book Solution.xlsx](https://github.com/MichaelThomasWolff/Security-Analyst-Projects-Udacity/blob/main/Planning%20for%20Security%20Controls/Findings/NIST%20Work%20Book%20Solution.xlsx)
+Scores have been assigned to: [NIST Work Book Solution.xlsx](https://github.com/MichaelThomasWolff/Security-Analyst-Projects-Udacity/blob/main/Planning%20for%20Security%20Controls/Findings/NIST%20Work%20Book%20Solution.xlsx)
 
 **Task 2: Based on your analysis provide physical and logical controls that can be implemented to enhance the security posture of the company.**
 
