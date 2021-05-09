@@ -41,13 +41,7 @@ Securing personnel (the human asset) is your highest priority.
 * Use the NIST work book and assign a score to each of the controls and inform your decisions.
 * Based on your analysis provide physical and logical controls that can be implemented to enhance the security posture of the company.
 * Customize SANS security policies for use by the company.
-* Make an inventory of hard- and software recommended by OpenVPN.
-* Make an inventory of potential integration points.
-* Make a high-level checklist of necessary deployment steps.
-* Include your findings by completing the deployment plan.
-* Make an inventory of hard- and software recommended by Duo 2FA.
-* Make a high-level checklist of necessary deployment steps.
-* Include you findings in the deployment plan document.
+* Make an inventory of hard- and software recommended by OpenVPN & Duo 2FA. Include your findings by completing the deployment plan.
 * Update the network diagram with the appropriate components necessary to deploy the proposed security solution.
 
 Go to: [Findings](https://github.com/MichaelThomasWolff/Security-Analyst-Projects-Udacity/tree/main/Planning%20for%20Security%20Controls/Findings)
