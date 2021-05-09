@@ -28,4 +28,25 @@ Insider Threat
 Hacktivist
 Script Kiddie
 
+**Section 2: Vulnerability Analysis**
+You’ve made it past the initial assessment and still have your sanity as working with Manu can be exhausting. You’ve identified the initial attack and shortcomings of the application setup. Manu is currently fuming with anger at the ineptness of both his business team and Chad whom they hired. Treading lightly, you notify him you have to continue with a deeper analysis of the application to see if you can find more vulnerabilities. Petrified Manu retreats into the corner awaiting the news of your probe.
+
+**Task 1: SQL Injection**
+The first vulnerability we want to exploit is on the login page of the website. Navigate to the login page and you should see a username and password field. Unfortunately for Juice Shop, this login portal is subjectable to a SQL Injection attack! Just as we covered during the course, exploit the vulnerability, and gain access to the site as admin.
+
+Take a screenshot of:
+
+The commands you used
+Account settings showing you as admin
+Task 2: XSS
+The second vulnerability we want to exploit is after we’ve logged into the site. We want to exploit an XSS vulnerability in the search bar. Attempt an arbitrary command that will render an alert with the value “Hacked”.
+
+Take a screenshot of:
+
+Both of the commands you used
+The message box displaying “Hacked”
+Optional Stand Out Task:
+See if you can identify other vulnerabilities in the Juice Shop!
+
+
 
