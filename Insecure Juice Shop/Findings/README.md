@@ -1,10 +1,6 @@
 # Threat Report
 
-Michael Wolff
-
-10.03.2021
-
-Purpose of this Report:
+**Purpose of this Report:**
 
 This is a threat model report for Udajuicer. The report will 
 describe the threats facing Udajuicer. 
