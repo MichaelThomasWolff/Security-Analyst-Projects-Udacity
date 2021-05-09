@@ -29,11 +29,11 @@ The internal business team came up with an online application where customers ca
 
 Udajuicer proceeded to test the application out in beta for a week before production. Unfortunately, the site would constantly go down and they weren’t sure what the issue was. Wanting to get to the bottom of the issue he reached out to SecureCorp, the world-renown cybersecurity consulting firm. SecureCorp deploys you, a security analyst, to get to the bottom of the issue and find out why the Juice Shop site keeps going down. Your job will consist of building a threat model for Manu’s website. Using the internal threat model template provided you will go through the process of helping Manu mitigate his current issue and build a secure application.
 
-Tools used in this projec:
+Tools used in this project:
 
 * Oracle VM VirtualBox
-* Microsoft Threat Modeling Tool. You can learn more about this tool here.
-* OWASP Threat Dragon. You can learn more about this tool here.
-* A generic drawing platform like draw.io. 
+* Microsoft Threat Modeling Tool
+* OWASP Threat Dragon
+* Draw.io
 
-
+Read on: [Insecure Juice Shop](https://github.com/MichaelThomasWolff/Security-Analyst-Projects-Udacity/tree/main/Insecure%20Juice%20Shop)
