@@ -34,16 +34,14 @@ Another solution would be the use of a firewall to allow traffic only from speci
 
 Administrative Control Recommendations:
 
-(include the names of the attached policy documents)
-
-Company A - Password-Protection-Policy.docx
-
-Company A - Pandemic-Response-Planning-Policy.docx
-
+(see Task 3)
 
 
 **Task 3: Customize SANS security policies for use by the company.**
 
+Company A - Password-Protection-Policy.docx
+
+Company A - Pandemic-Response-Planning-Policy.docx
 
 **Task 4: Make an inventory of hard- and software recommended by OpenVPN.**
 
