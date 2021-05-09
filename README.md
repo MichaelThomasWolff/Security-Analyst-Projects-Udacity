@@ -31,8 +31,9 @@ Udajuicer proceeded to test the application out in beta for a week before produc
 
 Tools used in this projec:
 
+* Oracle VM VirtualBox
 * Microsoft Threat Modeling Tool. You can learn more about this tool here.
 * OWASP Threat Dragon. You can learn more about this tool here.
-* A generic drawing platform like draw.io. (Although this tool is not recommended.)
+* A generic drawing platform like draw.io. 
 
 
