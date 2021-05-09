@@ -153,4 +153,4 @@ Duo only integrates with OpenVPN servers that employ certificate authentication 
 
 **Task 11: Update the network diagram with the appropriate components necessary to deploy the proposed security solution.**
 
-
+![alt text](https://github.com/MichaelThomasWolff/Security-Analyst-Projects-Udacity/blob/main/Planning%20for%20Security%20Controls/Findings/Duo2F%20Network%20Diagram%20Solution.jpg)
