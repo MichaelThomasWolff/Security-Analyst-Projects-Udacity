@@ -19,6 +19,8 @@ In addition to these primary responsibilities, you are also responsible for prov
 * Inform colleagues about information security management
 * Develop company-wide security best practices
 
+Securing personnel (the human asset) is your highest priority.
+
 Project instructions:
 
 * Use the NIST work book and assign a score to each of the controls and inform your decisions.
