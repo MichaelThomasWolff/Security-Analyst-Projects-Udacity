@@ -114,7 +114,7 @@ Firewall:
 * Disabling a firewall is putting the entire network at risk. Rather than turning off a firewall altogether, you can open the appropriate (non-standard) ports in the firewall to allow authorized applications or services through. Some firewalls use a pre-defined port or range of ports, while others allow users to manually configure which ports the software utilizes.
 * Enterprise VPN, Access Server, provide Layer 3 virtual private networking using OpenVPN protocol. OpenVPN protocol uses SSL/TLS with client and server certificates to perform key exchange and mutual authentication.
 
- 
+
 **Duo 2FA Implementation**
 
 **Overview**
