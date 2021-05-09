@@ -50,3 +50,5 @@ Securing personnel (the human asset) is your highest priority.
 * Include you findings in the deployment plan document.
 * Update the network diagram with the appropriate components necessary to deploy the proposed security solution.
 
+Go to: [Findings](https://github.com/MichaelThomasWolff/Security-Analyst-Projects-Udacity/tree/main/Planning%20for%20Security%20Controls/Findings)
+
