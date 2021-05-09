@@ -1,4 +1,4 @@
-Technology Overview
+**Technology Overview**
 
 The companies core infrastructure consists of a series of routers and switches that segment the network into virtual local area networks (vLANs) that are designated by subnets with non-routable IP addresses. 
 The companies primary web property (www) is an eCommerce website, built on WordPress. The customer-facing website is currently secured with an SSL certificate from a well-known Certificate Authority. The eCommerce platform serves as the company’s point-of-sale and handles payment card processing. It also communicates to the Enterprise Resource Planning (ERP) system through an Application Programming Interface (API) (over port 3333) using an application-specific service account which updates the customer database and financial tables. The server that hosts the primary website is a standalone server located in the company’s demilitarized zone (DMZ).
@@ -21,7 +21,7 @@ In addition to these primary responsibilities, you are also responsible for prov
 
 Securing personnel (the human asset) is your highest priority.
 
-Project instructions:
+**Project instructions:**
 
 * Use the NIST work book and assign a score to each of the controls and inform your decisions.
 * Based on your analysis provide physical and logical controls that can be implemented to enhance the security posture of the company.
