@@ -1,4 +1,4 @@
-**Project 1: Planning for Security Controls**
+# Project 1: Planning for Security Controls
 
 For this project we will be assuming the role of an Information Security Analyst for an industrial manufacturing company in the Midwest-US. 
 
