@@ -1,7 +1,7 @@
 # Security Analyst - Projects (Udacity Nanodegree)
 
 The listed projects were part of my Udacity Security Analyst Nanodegree and are displayed in derivated form due to copyright restrictions.
-For Udacity Honor Code please follow this link: [Udacity Honor Code]https://udacity.zendesk.com/hc/en-us/articles/210667103-Udacity-Honor-Code
+For Udacity Honor Code please follow this link: [Udacity Honor Code](https://udacity.zendesk.com/hc/en-us/articles/210667103-Udacity-Honor-Code)
 
 Please keep in mind that form and requirements of my projects may differ from present projects. Udacity may vary projects. This repo is representing my findings at this point in time and may not be representative for future Udacity Security Analyst projects.
 If you are currently enrolled into Udacity's Security Analyst Nanodegree please keep in mind that my findings can help you as a guide but using the exact same will go against Udacity"s 
