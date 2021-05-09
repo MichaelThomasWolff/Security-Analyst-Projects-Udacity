@@ -1,3 +1,16 @@
+**Project 1: Planning for Security Controls**
+
+For this project we will be assuming the role of an Information Security Analyst for an industrial manufacturing company in the Midwest-US. 
+
+Requirements for this project include:
+
+* NIST Work Book
+* Security Plan
+* Policy document #1
+* Policy document #2
+* Deployment Plan
+* Network Diagram
+
 **Technology Overview**
 
 The companies core infrastructure consists of a series of routers and switches that segment the network into virtual local area networks (vLANs) that are designated by subnets with non-routable IP addresses. 
@@ -34,3 +47,4 @@ Securing personnel (the human asset) is your highest priority.
 * Make a high-level checklist of necessary deployment steps.
 * Include you findings in the deployment plan document.
 * Update the network diagram with the appropriate components necessary to deploy the proposed security solution.
+
