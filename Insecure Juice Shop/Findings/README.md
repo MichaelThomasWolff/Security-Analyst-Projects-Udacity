@@ -23,7 +23,9 @@ following:
 * Mitigation Plan
 
 
-## Threat Assessment1.1: Asset Inventory
+## Section 1 Threat Assessment
+
+## 1.0: Asset Inventory
 
 **Components and Functions**
 
@@ -153,11 +155,11 @@ Insert Screenshot of Your Commands Here:
 Insert Screenshot of Account Settings Showing You as 
 Admin Here:
 
-2.2 XSS
+## 2.2 XSS
 Insert Screenshot of Your Commands Here:
 <iframe src="javascript:alert(`Hacked`)">
 
-2.2 XSS
+## 2.2 XSS
 3.
 Insert Screenshot of alert() popup saying "Hacked!" 
 Here:
@@ -184,8 +186,9 @@ Extra Vulnerabilities
 3. SQL Injection 2
 4. XSS Vulnerability 4
 
-3.2 Risk Rationale
-Why Did You Choose That Ranking?
+## 3.2 Risk Rationale
+
+**Why Did You Choose That Ranking?**
 The HTTP flood / Distributed Denial of Service (DDoS) attack ranks 
 highest, because the current active threat is always the most dangerous 
 threat. Injections are on second place. Injections are leading OWASP’s 
