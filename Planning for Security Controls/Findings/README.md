@@ -39,7 +39,7 @@ Administrative Control Recommendations:
 
 **Task 3: Customize SANS security policies for use by the company.**
 
-Company A - Password-Protection-Policy.docx
+[Company A - Password-Protection-Policy.docx](https://github.com/MichaelThomasWolff/Security-Analyst-Projects-Udacity/blob/main/Planning%20for%20Security%20Controls/Findings/Company%20A%20-%20Pandemic-Response-Planning-Policy.docx)
 
 Company A - Pandemic-Response-Planning-Policy.docx
 
