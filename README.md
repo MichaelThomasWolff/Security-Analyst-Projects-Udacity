@@ -35,7 +35,7 @@ The first request is an architecture diagram of the application and logs from ri
 Read on: [Insecure Web Application](https://github.com/mikethwolff/Security-Analyst-Projects-Udacity/tree/main/Insecure%20Web%20Application)
 
 
-# Project 4: Intrusion Detection System
+## Project 4: Intrusion Detection System
 
 Analyse alerts in the Intrusion Detection System, set up SIEM to collect and analyse date, monitor systems for suspicious activity, document evidence and follow the incident handling procedure to respond to any issues you uncover.
 
