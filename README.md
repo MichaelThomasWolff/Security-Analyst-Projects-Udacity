@@ -41,7 +41,7 @@ We imagine, you are a security analyst working in the Information Security depar
 
 **Task:** Complete a vulnerability assessment according to your organization’s Vulnerable Assessment standards using a provided report template.
 
-Read on: [Vulnerabilities Report](https://github.com/MichaelThomasWolff/Security-Analyst-Projects-Udacity/tree/main/Insecure%20Juice%20Shop)
+Read on: [Vulnerabilities Report](https://github.com/mikethwolff/Security-Analyst-Projects-Udacity/tree/main/Vulnerabilities%20Report)
 
 ## Project 4: Intrusion Detection System
 
