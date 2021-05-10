@@ -2,9 +2,9 @@
 
 ## Section 1: Assessment
 
-The first request is an architecture diagram of the application and logs from right before the application went down. At a quick glance you we notice that the architecture is designed woefully. 
+The first request is an architecture diagram of the application and logs from right before the application went down. At a quick glance we notice that the architecture is designed woefully. 
 
-**Task list:**
+**Here is the task list:**
 
 1. Asset Inventory
 
