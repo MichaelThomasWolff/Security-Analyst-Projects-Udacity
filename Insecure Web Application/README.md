@@ -40,10 +40,36 @@ The second vulnerability we want to exploit is after we’ve logged into the sit
 ## Section 3: Risk Analysis
 After notifying the owner of two more vulnerabilities, he next step is to rank the risks in order of what should be dealt with first.
 
-**1. Scoring Risks**
+1. Scoring Risks
+
 Use the matrix in the Threat Model Report to score the risks that we’ve identified so far to the Juice Shop.
-**2. Risk Rationale**
+
+2. Risk Rationale
+
 Now that we’ve scored all our risks, explain why you chose to rank the risks in the way you did. 
+
+## Section 4: Mitigation Plan
+At this point we’ve broken down all the risks and in what order Udajuicer should mitigate them.
+
+1. Secure Architecture
+
+Use draw.io to design a far more secure architecture for Manu to implement in getting the Juice Shop back up and running.
+
+2. Mystery Attack Mitigation
+
+Now we want to tackle his most pressing issue and want to implement a solution to mitigate the attack you identified in 1.3.
+
+3. SQL Injection Mitigation
+
+The next issue we want to fix is the SQL injection vulnerability on his login page. 
+
+4. XSS Mitigation
+
+The last issue we want to fix is the XSS vulnerability. 
+
+
+
+
 
 
 
