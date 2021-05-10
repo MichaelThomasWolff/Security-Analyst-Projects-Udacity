@@ -1,4 +1,4 @@
-# Project 3: Insecure Web Application
+# Project 2: Insecure Web Application
 
 ## Section 1: Assessment
 
