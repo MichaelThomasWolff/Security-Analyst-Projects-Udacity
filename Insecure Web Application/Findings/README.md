@@ -1,4 +1,4 @@
-# Project 3: Insecure Web Application - Findings
+# Project 2: Insecure Web Application - Findings
 
 ## Threat Report
 
