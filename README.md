@@ -35,12 +35,13 @@ The first request is an architecture diagram of the application and logs from ri
 Read on: [Insecure Web Application](https://github.com/mikethwolff/Security-Analyst-Projects-Udacity/tree/main/Insecure%20Web%20Application)
 
 ## Project 3: Vulnerabilities Report
+
 Frequent vulnerability and risk assessment operations are critical in understanding the potential risk of the information security infrastructure within an organization. Vulnerability assessment can identify potential problems and weaknesses in an environment that, combined with a threat, can be a significant risk to the organization's data integrity and continuity.
 We imagine, you are a security analyst working in the Information Security department.
 
 **Task:** Complete a vulnerability assessment according to your organization’s Vulnerable Assessment standards using a provided report template.
 
-Read on: [Insecure Juice Shop](https://github.com/MichaelThomasWolff/Security-Analyst-Projects-Udacity/tree/main/Insecure%20Juice%20Shop)
+Read on: [Vulnerabilities Report](https://github.com/MichaelThomasWolff/Security-Analyst-Projects-Udacity/tree/main/Insecure%20Juice%20Shop)
 
 ## Project 4: Intrusion Detection System
 
