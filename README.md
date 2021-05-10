@@ -22,23 +22,8 @@ Requirements for this project include:
 
 Read on: [Planning for Security Controls](https://github.com/MichaelThomasWolff/Security-Analyst-Projects-Udacity/tree/main/Planning%20for%20Security%20Controls)
 
-## Project 2: Insecure Juice Shop
 
-Udajuicer is the largest juice shop in the world. They’ve amassed millions with shops all around the world, without a reliance on technology.
-The internal business team came up with an online application where customers can place orders for delivery/pickup. The project was settled on a newbie, who created an insecure application.
-
-Udajuicer proceeded to test the application out in beta for a week before production. Unfortunately, the site would constantly go down and they weren’t sure what the issue was. Wanting to get to the bottom of the issue he reached out to SecureCorp, the world-renown cybersecurity consulting firm. SecureCorp deploys you, a security analyst, to get to the bottom of the issue and find out why the Juice Shop site keeps going down. Your job will consist of building a threat model for Manu’s website. Using the internal threat model template provided you will go through the process of helping Manu mitigate his current issue and build a secure application.
-
-Tools used in this project:
-
-* Oracle VM VirtualBox
-* Microsoft Threat Modeling Tool
-* OWASP Threat Dragon
-* Draw.io
-
-Read on: [Insecure Juice Shop](https://github.com/MichaelThomasWolff/Security-Analyst-Projects-Udacity/tree/main/Insecure%20Juice%20Shop)
-
-## Project 3: Insecure Web Application
+## Project 2: Insecure Web Application
 The first request is an architecture diagram of the application and logs from right before the application went down. At a quick glance you we notice that the architecture is designed woefully. 
 
 1. Asset Inventory
@@ -47,7 +32,7 @@ The first request is an architecture diagram of the application and logs from ri
 4. Threat Analysis
 5. Threat Actor Analysis
 
-Read on: [Insecure Web Application](https://github.com/MichaelThomasWolff/Security-Analyst-Projects-Udacity/tree/main/Insecure%20Juice%20Shop)
+Read on: [Insecure Web Application](https://github.com/mikethwolff/Security-Analyst-Projects-Udacity/tree/main/Insecure%20Web%20Application)
 
 
 # Project 4: Intrusion Detection System
