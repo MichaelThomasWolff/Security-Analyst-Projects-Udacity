@@ -1,4 +1,6 @@
-# Threat Report
+# Project 3: Insecure Web Application - Findings
+
+## Threat Report
 
 **Purpose of this Report:**
 
