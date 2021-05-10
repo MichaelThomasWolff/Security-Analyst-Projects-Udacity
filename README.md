@@ -54,4 +54,4 @@ Tasks include:
 5. Use Splunk to Collect and Analyse Data
 6. Use the Incident Response Playbook to Determine the Next Steps
 
-Read on: [Intrusion Detection System](https://github.com/MichaelThomasWolff/Security-Analyst-Projects-Udacity/tree/main/Insecure%20Juice%20Shop)
+Read on: [Intrusion Detection System](https://github.com/mikethwolff/Security-Analyst-Projects-Udacity/tree/main/Intrusion%20Detection%20System)
