@@ -6,7 +6,7 @@ The first request is an architecture diagram of the application and logs from ri
 Task list:
 **1. Asset Inventory**
 The first part of our threat model is being able to identify all the assets involved in the target of the assessment.
-**2. Architecture Audit**
+**2. Architecture Audit
 Now that we’ve identified all the components that makeup Udajuicer, let’s conduct an architecture review with the given diagram. Referencing what we went over secure architecture best practices, list out at least 3 flaws.
 **3. Threat Model**
 Build a Threat Model Diagram showing the flow of data using OWASP Threat Dragon. 
