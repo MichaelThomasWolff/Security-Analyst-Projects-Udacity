@@ -68,7 +68,7 @@ The next issue we want to fix is the SQL injection vulnerability on his login pa
 
 The last issue we want to fix is the XSS vulnerability. 
 
-
+Gp to [Findings](https://github.com/mikethwolff/Security-Analyst-Projects-Udacity/tree/main/Insecure%20Web%20Application/Findings)
 
 
 
