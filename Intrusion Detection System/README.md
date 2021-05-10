@@ -1,4 +1,6 @@
+# Project 4: Intrusion Detection System
 
+****
 Analyse alerts in the Intrusion Detection System, set up SIEM to collect and analyse date, monitor systems for suspicious activity, document evidence and follow the incident handling procedure to respond to any issues you uncover.
 
 Tasks include:
