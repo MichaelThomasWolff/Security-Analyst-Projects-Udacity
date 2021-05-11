@@ -1,5 +1,6 @@
 # Project 3: Vulnerabilities Report - Findings
 
+
 ## SECURITY ASSESSMENT
 
 Submitted to: Development Department, Udajuicer
@@ -10,54 +11,53 @@ Date of Testing: 14.04.2021
 
 Date of Report Delivery: 19.04.2021
 
-**UdajuicerPage | 1**
-## Security Assessment
 
-Table of Contents
+## Table of Contents
 
-Security Engagement Summary 
+* Security Engagement Summary 
 
-Engagement Overview 2
+1. Engagement Overview 2
 
-Scope 2
+2. Scope 2
 
-Risk Analysis 3
+3. Risk Analysis 3
 
-Recommendation 4
+4. Recommendation 4
 
-Significant Vulnerability Summary 5
+* Significant Vulnerability Summary 5
 
-Medium Risk Vulnerabilities 5
+1. Medium Risk Vulnerabilities 5
 
-Low Risk Vulnerabilities 7
+2. Low Risk Vulnerabilities 7
 
-Informational Risk Vulnerabilities 8
+3. Informational Risk Vulnerabilities 8
 
-Significant Vulnerability Detail 7
+* Significant Vulnerability Detail 7
 
-10098 - Cross-Domain Misconfiguration 7
+1. 10098 - Cross-Domain Misconfiguration 7
 
-10017 - Cross-Domain JavaScript Source File Inclusion 8
+2. 10017 - Cross-Domain JavaScript Source File Inclusion 8
 
-10027 - Information Disclosure - Suspicious Comments 8
+3. 10027 - Information Disclosure - Suspicious Comments 8
 
-10096 - Timestamp Disclosure 8
+4. 10096 - Timestamp Disclosure 8
 
-CVE-2020-14145 8
+5. CVE-2020-14145 8
 
-CVE-2021-28041 8
+6. CVE-2021-28041 8
 
-CVE-2020-12062 9
+7. CVE-2020-12062 9
 
-CVE-2020-15778 9
+8. CVE-2020-15778 9
 
-Methodology 11
+* Methodology 11
 
-Assessment Tools Selection 11
+1. Assessment Tools Selection 11
 
-Assessment Methodology Detail 12
+2. Assessment Methodology Detail 12
 
-Conclusion 14Page | 2
+* Conclusion 14
+
 
 ## Security Assessment
 
@@ -88,6 +88,7 @@ efforts.
 
 ## Risk Level Description
 
+- - -
 High
 
 These issues identity conditions that could directly result in the compromise or 
@@ -107,8 +108,11 @@ Examples of Medium-Risk issues include directory browsing, partial access to
 files on the system, disclosure of security mechanisms and unauthorized use of 
 services.
 
+- - -
+
 ## Security Assessment
 
+- - -
 Low
 
 These issues identify conditions that do not immediately or directly result in the 
@@ -119,10 +123,12 @@ access.to a network, system, application or information.
 
 Informational These issues, also known as information leakage, appear when a website 
 unintentionally reveals sensitive information to its users.
+- - -
 
 ## Identified issues by risk factor:
 
-Risk Level Number of Alerts
+- - -
+**Risk Level Number of Alerts**
 
 High 0
 
@@ -131,6 +137,7 @@ Medium 1
 Low 1
 
 Informational 2
+- - -
 
 ## Executive Risk Analysis
 
