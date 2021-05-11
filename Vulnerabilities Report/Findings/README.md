@@ -59,11 +59,9 @@ Date of Report Delivery: 19.04.2021
 * Conclusion 14
 
 
-## Security Assessment
+## Security Engagement Summary
 
-Security Engagement Summary
-
-Engagement Overview
+## Engagement Overview
 
 The Development Team requested a vulnerability assessment of a legacy web-application. 
 The (Udajuicer) application was under attack, but the issue has been mitigated, the system was 
@@ -89,14 +87,16 @@ efforts.
 ## Risk Level Description
 
 - - -
-High
+**High**
 
 These issues identity conditions that could directly result in the compromise or 
 unauthorized access of a network, system, application or sensitive Information.
 Examples of High-Risk issues include remote execution of commands, known 
 buffer overflows; unauthorized access and disclosure of sensitive information.
 
-Medium
+- - - 
+
+**Medium**
 
 The issues identify conditions that do not immediately or directly result in the 
 compromise or unauthorized access of a network, system, application or sensible 
@@ -110,9 +110,6 @@ services.
 
 - - -
 
-## Security Assessment
-
-- - -
 Low
 
 These issues identify conditions that do not immediately or directly result in the 
