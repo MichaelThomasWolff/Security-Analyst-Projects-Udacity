@@ -110,7 +110,7 @@ services.
 
 - - -
 
-Low
+**Low**
 
 These issues identify conditions that do not immediately or directly result in the 
 compromise or unauthorized access of a network, system, application or sensitive 
@@ -123,7 +123,6 @@ unintentionally reveals sensitive information to its users.
 - - -
 
 **Identified issues by risk factor:**
-
 - - -
 - 
 **Risk Level Number of Alerts**
@@ -332,8 +331,9 @@ Reference: http://projects.webappsec.org/w/page/13246936/Information%20Leakage
 
 URL: http://192.168.0.20:3000/styles.css
 
-Vulnerabilities discovered with NMAP-Vulners / port 22:
-Description: Common Vulnerabilities and Exposures
+## Vulnerabilities discovered with NMAP-Vulners / port 22:
+
+**Description: Common Vulnerabilities and Exposures**
 
 ID: CVE-2020-14145
 
@@ -341,7 +341,7 @@ Information: The client side in OpenSSH 5.7 through 8.4 has an Observable Discre
 to an information leak in the algorithm negotiation. This allows man-in-the-middle attackers to target 
 initial connection attempts (where no host key for the server has been cached by the client).
 
-Description: Common Vulnerabilities and Exposures
+**Description: Common Vulnerabilities and Exposures**
 
 ID: CVE-2021-28041
 
@@ -349,7 +349,7 @@ Information: ssh-agent in OpenSSH before 8.5 has a double free that may be relev
 less-common scenarios, such as unconstrained agent-socket access on a legacy operating system, 
 or the forwarding of an agent to an attacker-controlled host.
 
-Description: Common Vulnerabilities and Exposures
+**Description: Common Vulnerabilities and Exposures**
 
 ID: CVE-2020-12062
 
@@ -361,7 +361,7 @@ download a file hierarchy containing, anywhere inside, this crafted subdirectory
 points out that “this attack can achieve no more than a hostile peer is already able to achieve within 
 the scp protocol” and “utimes does not fail under normal circumstances.”
 
-Description: Common Vulnerabilities and Exposures
+**Description: Common Vulnerabilities and Exposures**
 
 ID: CVE-2020-15778
 
@@ -371,12 +371,12 @@ vendor reportedly has stated that they intentionally omit validation of “anoma
 transfers” because that could “stand a great chance of breaking existing workflows.”
 
 
-Methodology
+## Methodology
 
 The Information Security Department based the findings and recommendations, outlined in this 
 report, on application vulnerability scans performed against the application. 
 
-Assessment Tools Selection
+## Assessment Tools Selection
 
 OWASP ZAP is an open-source web application security scanner.
 
@@ -385,15 +385,15 @@ security auditing.
 
 Vulners is an Nmap NSE script, using some well-known services to provide info on vulnerabilities. 
 
-Assessment Methodology Detail
+## Assessment Methodology Detail
 
-OWASP ZAP Automated Application Scan
+**OWASP ZAP Automated Application Scan**
 
 The Information Security Department used several Open-Source tools to survey the targeted 
 environment and identify potential vulnerabilities. The automated scanning software identifies 
 application-level vulnerabilities. 
 
-The scope of testing with OWASP ZAP includes the following:
+**The scope of testing with OWASP ZAP includes the following:**
 
 * QL Injection
 * Path Traversal
