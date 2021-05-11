@@ -16,45 +16,45 @@ Date of Report Delivery: 19.04.2021
 
 * Security Engagement Summary 
 
-1. Engagement Overview 
+  1. Engagement Overview 
 
-2. Scope 
+  2. Scope 
 
-3. Risk Analysis 
+  3. Risk Analysis 
 
-4. Recommendation 
+  4. Recommendation 
 
 * Significant Vulnerability Summary 
 
-1. Medium Risk Vulnerabilities 
+  1. Medium Risk Vulnerabilities 
 
-2. Low Risk Vulnerabilities 
+  2. Low Risk Vulnerabilities 
 
-3. Informational Risk Vulnerabilities 
+  3. Informational Risk Vulnerabilities 
 
 * Significant Vulnerability Detail 
 
-1. 10098 - Cross-Domain Misconfiguration 
+  1. 10098 - Cross-Domain Misconfiguration 
 
-2. 10017 - Cross-Domain JavaScript Source File Inclusion 
+  2. 10017 - Cross-Domain JavaScript Source File Inclusion 
 
-3. 10027 - Information Disclosure - Suspicious Comments 
+  3. 10027 - Information Disclosure - Suspicious Comments 
 
-4. 10096 - Timestamp Disclosure 
+  4. 10096 - Timestamp Disclosure 
 
-5. CVE-2020-14145 
+  5. CVE-2020-14145 
 
-6. CVE-2021-28041 
+  6. CVE-2021-28041 
 
-7. CVE-2020-12062 
+  7. CVE-2020-12062 
 
-8. CVE-2020-15778 
+  8. CVE-2020-15778 
 
 * Methodology 
 
-1. Assessment Tools Selection 
+  1. Assessment Tools Selection 
 
-2. Assessment Methodology Detail 
+  2. Assessment Methodology Detail 
 
 * Conclusion 
 
