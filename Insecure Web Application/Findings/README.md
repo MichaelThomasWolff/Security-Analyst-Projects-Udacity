@@ -108,7 +108,12 @@ the following components:**
 
 ## 1.3 Threat Model Diagram
 
-**Insert Threat Model Diagram and Possible Threats Here:1.4 Threat Analysis
+Insert Threat Model Diagram and Possible Threats Here:
+
+![alt text](https://github.com/MichaelThomasWolff/Security-Analyst-Projects-Udacity/blob/main/Planning%20for%20Security%20Controls/Findings/Duo2F%20Network%20Diagram%20Solution.jpg)
+
+## 1.4 Threat Analysis
+
 What Type of Attack Caused the Crash?**
 
 I believe it was a HTTP flood / DDoS attack which crashed the Udajuicer store. 
