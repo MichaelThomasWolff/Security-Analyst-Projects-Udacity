@@ -84,7 +84,7 @@ issues to address in the application. The chart below outlines a number of issue
 grouped by risk factors. Note the risk ratings were given to help assist in prioritizing remediation 
 efforts.
 
-## Risk Level Description
+## Risk Analysis 
 
 - - -
 **High**
@@ -122,7 +122,7 @@ Informational These issues, also known as information leakage, appear when a web
 unintentionally reveals sensitive information to its users.
 - - -
 
-## Identified issues by risk factor:
+**Identified issues by risk factor:**
 
 - - -
 - 
