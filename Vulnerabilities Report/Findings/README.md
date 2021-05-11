@@ -220,7 +220,7 @@ Reference:
 http://www.hpenterprisesecurity.com/vulncat/en/vulncat/vb/html5_overly_permissive_cors_policy.html
 
 Code:
-...
+```
 <!--
  ~ Copyright (c) 2014-2020 Bjoern Kimminich.
  ~ SPDX-License-Identifier: MIT
@@ -307,7 +307,7 @@ defer></script><script src="polyfills-es5.js" nomodule defer></script><script sr
 src="vendor-es5.js" nomodule defer></script><script src="main-es2015.js" 
 type="module"></script><script src="main-es5.js" nomodule defer></script></body>
 </html>
-...
+```
 
 Security Assessment
 Udajuicer
