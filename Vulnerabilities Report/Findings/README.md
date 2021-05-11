@@ -119,11 +119,11 @@ access.to a network, system, application or information.
 
 Informational These issues, also known as information leakage, appear when a website 
 unintentionally reveals sensitive information to its users.
+
 - - -
 
 **Identified issues by risk factor:**
-- - -
-- 
+
 **Risk Level Number of Alerts**
 
 High 0
@@ -133,6 +133,7 @@ Medium 1
 Low 1
 
 Informational 2
+
 - - -
 
 ## Executive Risk Analysis
@@ -141,6 +142,7 @@ The website shows medium and low risk vulnerabilities. The web-application shows
 which could be used by an attacker to access data that is available in an unauthenticated manner.
 
 - - -
+
 **Name Risk Level Number of Instances**
 
 Cross-Domain Misconfiguration Medium 30
@@ -154,6 +156,7 @@ Information Disclosure - Suspicious
 Comments Informational 6
 
 Timestamp Disclosure - Unix Informational 23
+
 - - - 
 
 Exploration of these flaws is inevitable. An attack can have a severe impact on the business. The
