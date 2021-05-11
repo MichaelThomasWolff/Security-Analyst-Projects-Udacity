@@ -95,5 +95,5 @@ and educate employees on malware attacks and security awareness
 
 ![alt text](https://github.com/mikethwolff/Security-Analyst-Projects-Udacity/blob/main/Intrusion%20Detection%20System/Findings/search.png)
 
-![alt text](https://github.com/MichaelThomasWolff/Security-Analyst-Projects-Udacity/blob/main/Planning%20for%20Security%20Controls/Findings/OpenVPN%20Network%20Diagram%20Solution.jpg)
+![alt text](https://github.com/mikethwolff/Security-Analyst-Projects-Udacity/blob/main/Intrusion%20Detection%20System/Findings/dashboard.png)
 
