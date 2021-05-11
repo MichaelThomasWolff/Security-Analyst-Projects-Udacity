@@ -11,3 +11,4 @@ Tasks include:
 5. Use Splunk to Collect and Analyse Data
 6. Use the Incident Response Playbook to Determine the Next Steps
 
+Go to: [Findings](https://github.com/mikethwolff/Security-Analyst-Projects-Udacity/tree/main/Intrusion%20Detection%20System/Findings)
