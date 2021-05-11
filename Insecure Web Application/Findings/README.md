@@ -110,7 +110,7 @@ the following components:**
 
 Insert Threat Model Diagram and Possible Threats Here:
 
-![alt text](https://github.com/MichaelThomasWolff/Security-Analyst-Projects-Udacity/blob/main/Planning%20for%20Security%20Controls/Findings/Duo2F%20Network%20Diagram%20Solution.jpg)
+![alt text](https://github.com/mikethwolff/Security-Analyst-Projects-Udacity/blob/main/Insecure%20Web%20Application/Findings/Picture1.png)
 
 ## 1.4 Threat Analysis
 
@@ -129,7 +129,12 @@ addresses, from which I conclude that it was a DDoS attack. It also shows “GET
 entries. HTTP clients like a web browser talk to applications or servers by sending 
 HTTP requests – generally one of two types of requests: GET or POST. Perpetrator 
 using HTTP Flood attacks aim to inundate the server or application with multiple 
-requests that are each as processing-intensive as possible.1.5 Threat Actor Analysis
+requests that are each as processing-intensive as possible.
+
+
+![alt text](https://github.com/mikethwolff/Security-Analyst-Projects-Udacity/blob/main/Insecure%20Web%20Application/Findings/Picture2.png)
+
+## 1.5 Threat Actor Analysis
 
 **Who is the Most Likely Threat Actor?**
 
@@ -154,18 +159,26 @@ otherwise nor how to use any hacker tools.
 
 Insert Screenshot of Your Commands Here:
 
+![alt text](https://github.com/mikethwolff/Security-Analyst-Projects-Udacity/blob/main/Insecure%20Web%20Application/Findings/Picture3.png)
+
 ## 2.1 SQL Injection
 Insert Screenshot of Account Settings Showing You as 
 Admin Here:
 
+![alt text](https://github.com/mikethwolff/Security-Analyst-Projects-Udacity/blob/main/Insecure%20Web%20Application/Findings/Picture4.png)
+
 ## 2.2 XSS
 Insert Screenshot of Your Commands Here:
 <iframe src="javascript:alert(`Hacked`)">
+  
+![alt text](https://github.com/mikethwolff/Security-Analyst-Projects-Udacity/blob/main/Insecure%20Web%20Application/Findings/Picture5.png)
 
 ## 2.2 XSS
 3.
 Insert Screenshot of alert() popup saying "Hacked!" 
 Here:
+
+![alt text](https://github.com/mikethwolff/Security-Analyst-Projects-Udacity/blob/main/Insecure%20Web%20Application/Findings/Picture6.png)
 
 ## Optional Task:
 
@@ -175,7 +188,10 @@ Here:
 Extra Vulnerabilities
 * Login with client detailsOptional Task:
 Extra Vulnerabilities
-* Access to sensitive data on serverSection 3
+* Access to sensitive data on server
+
+
+![alt text](https://github.com/mikethwolff/Security-Analyst-Projects-Udacity/blob/main/Insecure%20Web%20Application/Findings/Picture7.png)
 
 ## Risk Analysis
 
