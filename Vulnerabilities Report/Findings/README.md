@@ -86,7 +86,6 @@ efforts.
 
 ## Risk Analysis 
 
-- - -
 **High**
 
 These issues identity conditions that could directly result in the compromise or 
