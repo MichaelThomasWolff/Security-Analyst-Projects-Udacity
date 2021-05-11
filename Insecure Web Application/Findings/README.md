@@ -231,6 +231,8 @@ use backup components that automatically take the place of failed
 components, ensuring no loss of service
 • Content Delivery Network (CDN) caches content on edge server
 
+![alt text](https://github.com/mikethwolff/Security-Analyst-Projects-Udacity/blob/main/Insecure%20Web%20Application/Findings/Picture10.png)
+
 ## 4.2 Mystery Attack 
 **Mitigation**
 **What is Your Mitigation Plan?**
@@ -243,18 +245,28 @@ incomplete connections and flush them from the system when they reach a
 certain threshold
 * Implementing Content Delivery Network (CDN) sets up cached content on edge 
 server handling requests during data attack
-* IDS monitoring traffic behaviour4.3 SQL Injection Mitigation
+* IDS monitoring traffic behaviour
+
+![alt text](https://github.com/mikethwolff/Security-Analyst-Projects-Udacity/blob/main/Insecure%20Web%20Application/Findings/Picture11.png)
+
+## 4.3 SQL Injection Mitigation
 What is Your Mitigation Plan?
 The following methods can be implement to protect web server from SQL 
 Injections:
 * The use of Prepared Statements (with Parameterized Queries)
-* Or the use of Stored Procedures4.4 XSS Mitigation
+* Or the use of Stored Procedures
+
+![alt text](https://github.com/mikethwolff/Security-Analyst-Projects-Udacity/blob/main/Insecure%20Web%20Application/Findings/Picture12.png)
+
+## 4.4 XSS Mitigation
 What is Your Mitigation Plan?
 The following methods can be implemented to mitigate XSS attacks:
 * Input Sanitization: Taking the user input and cleaning it
 * Input validation. User inputs filtered from the malicious chain of commands. 
 Encoding. All the inputs including special characters should be ciphered in 
-respective HTML or URL code
+respective HTML or URL codes
+
+![alt text](https://github.com/mikethwolff/Security-Analyst-Projects-Udacity/blob/main/Insecure%20Web%20Application/Findings/Picture13.png)
 
 
 
