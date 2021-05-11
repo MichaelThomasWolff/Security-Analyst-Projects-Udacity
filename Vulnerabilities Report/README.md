@@ -36,3 +36,4 @@ For each significant assessed vulnerability, provide additional information.
 4. Explain in logical (usually chronological) order the actions that were taken to perform the vulnerability assessment.
 5. Include screenshots of the vulnerability assessment process, tools, and actions made during the vulnerability validation.
 
+Go to: [Findings](https://github.com/mikethwolff/Security-Analyst-Projects-Udacity/tree/main/Vulnerabilities%20Report/Findings)
