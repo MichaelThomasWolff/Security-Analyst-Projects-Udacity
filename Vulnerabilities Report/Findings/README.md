@@ -380,12 +380,12 @@ report, on application vulnerability scans performed against the application.
 
 ## Assessment Tools Selection
 
-OWASP ZAP is an open-source web application security scanner.
+**OWASP ZAP** is an open-source web application security scanner.
 
-Nmap ("Network Mapper") is a free and open source (license) utility for network discovery and 
+**Nmap** ("Network Mapper") is a free and open source (license) utility for network discovery and 
 security auditing.
 
-Vulners is an Nmap NSE script, using some well-known services to provide info on vulnerabilities. 
+**Vulners** is an Nmap NSE script, using some well-known services to provide info on vulnerabilities. 
 
 ## Assessment Methodology Detail
 
