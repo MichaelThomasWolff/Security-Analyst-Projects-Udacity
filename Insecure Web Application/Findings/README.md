@@ -231,7 +231,7 @@ use backup components that automatically take the place of failed
 components, ensuring no loss of service
 • Content Delivery Network (CDN) caches content on edge server
 
-![alt text](https://github.com/mikethwolff/Security-Analyst-Projects-Udacity/blob/main/Insecure%20Web%20Application/Findings/Picture10.png)
+![alt text](https://github.com/mikethwolff/Security-Analyst-Projects-Udacity/blob/main/Insecure%20Web%20Application/Findings/Picture10.jpg)
 
 ## 4.2 Mystery Attack 
 **Mitigation**
@@ -247,7 +247,7 @@ certain threshold
 server handling requests during data attack
 * IDS monitoring traffic behaviour
 
-![alt text](https://github.com/mikethwolff/Security-Analyst-Projects-Udacity/blob/main/Insecure%20Web%20Application/Findings/Picture11.png)
+![alt text](https://github.com/mikethwolff/Security-Analyst-Projects-Udacity/blob/main/Insecure%20Web%20Application/Findings/Picture11.jpg)
 
 ## 4.3 SQL Injection Mitigation
 What is Your Mitigation Plan?
@@ -256,7 +256,7 @@ Injections:
 * The use of Prepared Statements (with Parameterized Queries)
 * Or the use of Stored Procedures
 
-![alt text](https://github.com/mikethwolff/Security-Analyst-Projects-Udacity/blob/main/Insecure%20Web%20Application/Findings/Picture12.png)
+![alt text](https://github.com/mikethwolff/Security-Analyst-Projects-Udacity/blob/main/Insecure%20Web%20Application/Findings/Picture12.jpg)
 
 ## 4.4 XSS Mitigation
 What is Your Mitigation Plan?
@@ -266,7 +266,7 @@ The following methods can be implemented to mitigate XSS attacks:
 Encoding. All the inputs including special characters should be ciphered in 
 respective HTML or URL codes
 
-![alt text](https://github.com/mikethwolff/Security-Analyst-Projects-Udacity/blob/main/Insecure%20Web%20Application/Findings/Picture13.png)
+![alt text](https://github.com/mikethwolff/Security-Analyst-Projects-Udacity/blob/main/Insecure%20Web%20Application/Findings/Picture13.jpg)
 
 
 
