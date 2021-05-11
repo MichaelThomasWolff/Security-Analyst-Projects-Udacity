@@ -21,7 +21,7 @@ Your vulnerability report must contain the following sections:
 * Recommendation
 1. Provide general guidance for the Development Team to correct, mitigate, or resolve the assessed highest risk vulnerabilities.
 * Vulnerability Summary
-Provide a list of the significant assessed vulnerabilities listed in order of descending risk.
+1. Provide a list of the significant assessed vulnerabilities listed in order of descending risk.
 * Vulnerability Detail
 
 For each significant assessed vulnerability, provide additional information.
